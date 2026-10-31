@@ -1,0 +1,91 @@
+body {
+        margin: 0;
+            font-family: Arial, sans-serif;
+                background: #111;
+                    color: white;
+                    }
+
+                    header {
+                        background: #e10600;
+                            text-align: center;
+                                padding: 25px;
+                                }
+
+                                header img {
+                                    width: 150px;
+                                        max-width: 80%;
+                                        }
+
+                                        nav {
+                                            background: #222;
+                                                padding: 18px;
+                                                    text-align: center;
+                                                    }
+
+                                                    nav a {
+                                                        color: white;
+                                                            text-decoration: none;
+                                                                margin: 10px;
+                                                                    font-weight: bold;
+                                                                    }
+
+                                                                    nav a:hover {
+                                                                        color: #ff3333;
+                                                                        }
+
+                                                                        main {
+                                                                            max-width: 1000px;
+                                                                                margin: auto;
+                                                                                    padding: 25px;
+                                                                                        line-height: 1.8;
+                                                                                        }
+
+                                                                                        h2 {
+                                                                                            color: #ff3333;
+                                                                                                border-bottom: 2px solid #e10600;
+                                                                                                    padding-bottom: 8px;
+                                                                                                    }
+
+                                                                                                    .tarjeta {
+                                                                                                        background: #242424;
+                                                                                                            padding: 20px;
+                                                                                                                margin: 20px 0;
+                                                                                                                    border-left: 5px solid #e10600;
+                                                                                                                        border-radius: 8px;
+                                                                                                                        }
+
+                                                                                                                        table {
+                                                                                                                            width: 100%;
+                                                                                                                                border-collapse: collapse;
+                                                                                                                                    margin-top: 20px;
+                                                                                                                                    }
+
+                                                                                                                                    th, td {
+                                                                                                                                        border: 1px solid #555;
+                                                                                                                                            padding: 12px;
+                                                                                                                                                text-align: center;
+                                                                                                                                                }
+
+                                                                                                                                                th {
+                                                                                                                                                    background: #e10600;
+                                                                                                                                                    }
+
+                                                                                                                                                    tr:nth-child(even) {
+                                                                                                                                                        background: #292929;
+                                                                                                                                                        }
+
+                                                                                                                                                        td img {
+                                                                                                                                                            width: 100px;
+                                                                                                                                                                border-radius: 8px;
+                                                                                                                                                                }
+
+                                                                                                                                                                footer {
+                                                                                                                                                                    background: #e10600;
+                                                                                                                                                                        text-align: center;
+                                                                                                                                                                            padding: 15px;
+                                                                                                                                                                                margin-top: 30px;
+                                                                                                                                                                                }
+
+                                                                                                                                                                                .enlace {
+                                                                                                                                                                                    color: #ff5555;
+                                                                                                                                                                                    }
