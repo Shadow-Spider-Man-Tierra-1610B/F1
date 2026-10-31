@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ganadores de Fórmula 1 - Ian Hernández</title>
+<link rel="stylesheet" href="f1.css">
+</head>
+<body>
+
+<header>
+<h1>GANADORES DE FÓRMULA 1</h1>
+<p>Los pilotos que hicieron historia</p>
+</header>
+
+<nav>
+<a href="index.html">Inicio</a>
+<a href="Que%20es%20la%20f1.html">¿Qué es la F1?</a>
+<a href="pilotos.html">Pilotos</a>
+<a href="circuitos.html">Circuitos</a>
+<a href="Ganadores.html">Campeones</a>
+<a href="ayrton-senna.html">Ayrton Senna</a>
+</nav>
+
+<main>
+<h2>Campeones mundiales destacados</h2>
+<p>A lo largo de la historia, diferentes pilotos han conseguido el campeonato mundial de Fórmula 1 gracias a su talento y esfuerzo.</p>
+
+<div class="tarjeta">
+<h2>Michael Schumacher</h2>
+<p>Ganó siete campeonatos mundiales y es uno de los pilotos más exitosos de la historia.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzwYsrG3wWqxg_kWreIAtRgw_HRgwCQKCBYWWktnaadw&s=10" alt="">
+</div>
+
+<div class="tarjeta">
+<h2>Lewis Hamilton</h2>
+<p>Ha conseguido siete campeonatos mundiales y numerosos récords en la categoría.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzXNsQV7YO2HC5zPB9O3OM64rsr2NUhtO7MVGObmWnWw&s=10" alt="">
+</div>
+
+<div class="tarjeta">
+<h2>Ayrton Senna</h2>
+<p>Ganó tres campeonatos mundiales y destacó por su talento y habilidad bajo la lluvia.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7EBTL3SqkbOLf859EByb1xNZTqhJqo2TFny_-EZcVIg&s=10" alt="">
+</div>
+
+<div class="tarjeta">
+<h2>Max Verstappen</h2>
+<p>Se convirtió en uno de los grandes protagonistas de la Fórmula 1 moderna.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6zKfE4n_EaCc3_Mr7EEJG1jK0CEll0w6LKL4em1kifA&s=10" alt="">
+</div>
+
+<div class="tarjeta">
+<h2>Juan Manuel Fangio</h2>
+<p>Consiguió cinco campeonatos mundiales durante los primeros años de la Fórmula 1.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrCy-1FA5iajalCkE3xSRwTgAlPXULSuM42gcKH6tFYZF9A6nf8JyfODfBTgpAy1lzk4xd8Gb5XuUS9BxDp_btNvRWehDbwNeLg5SXPIWqfw&s=10" alt="">
+</div>
+</main>
+
+
+</body>
+</html>
