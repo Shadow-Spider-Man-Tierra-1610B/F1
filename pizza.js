@@ -1,3 +1,3 @@
-alert("¡Bienvenido a mi página de Fórmula 1!");
+alert("hola, personita bienvenid@ a mi sitio");
 
 console.log(" hola, personita. ");
